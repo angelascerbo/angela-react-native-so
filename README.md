@@ -1,9 +1,16 @@
 ## Local Development Setup
 
-1. Install dependencies: `npm install`
-2. Start the backend: `cd node-backend && npm run dev`
-3. Start the app: `npm start`
-4. The app will automatically connect to your local backend
+1. Install dependencies for the backend and start server
+```cd node-backend
+npm install
+npm run dev
+```
+
+2. In another terminal, go to the root, install dependencies and start the app
+```
+npm install
+npm start
+```
 
 **Note:** Your computer and phone must be on the same WiFi network.
 
