@@ -3,7 +3,6 @@ import {
   StyleSheet,
   View,
   useColorScheme,
-  Alert,
   TouchableWithoutFeedback,
   Keyboard,
 } from "react-native";
